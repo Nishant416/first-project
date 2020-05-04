@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Types Of Coffee</title>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body bgcolor="white" text="black" order="" font="italics">
+<p align="center"><h1>Coffee knowledge Hub</h1></p>
+<img src="coffee.jpg" alt="coffee" width="200px" height="200px" align="center"><br>
+<q><strong>Coffee drinkers have stronger DNA. A study published in the European Journal of Nutrition showed that coffee drinkers have DNA with stronger integrity since the white blood cells of coffee drinkers had far fewer instances of spontaneous DNA strand breakage.</b></q>
+<h2><b>TYPES OF COFFEE</b></h2>
+<h3>Different types of coffees are as follows<ol type="a">
+<li>Caffè Americano</li><br><p><img src="Cafe-Americano.jpg" alt="" width="200px" height="200px" align="center"><br>
+You can make this type of coffee quite simply by adding hot water to a shot of espresso coffee. It has been said that American soldiers during WWII made this type of coffee to make their beverages last longer. It was then (apparently) adopted by American baristas after the war.</p>
+<li>Café Latte</li><br><p><img src="caffe latte.jpg" alt="" width="200px" height="200px" align="center"><br>
+A fairly popular option for coffee drinkers, a latte consists steamed (or scalded) milk and a single shot of coffee. It is usually quite frothy, and you’ll occasionally encounter cafes that don’t understand the difference between this and a flat white.</p>
+<li>Cappuccino</li><br><p><img src="capuccino.jpg" alt="" width="200px" height="200px" align="center"><br>
+Possibly the most popular type of coffee in the world, a cappuccino consists of three layers (kind of like a cake). The first is a shot of espresso, then a shot of steamed milk, and finally the barista adds a layer of frothed, foamy milk. This final layer can also be topped with chocolate shavings or powder. Traditionally, Italians consumed this type of coffee at breakfast.</p>
+<li>Espresso</li><br><p><img src="espresso.jpg" alt="" width="200px" height="200px" align="center"><br>
+To make an espresso, shoot boiling water under high pressure through finely ground coffee beans and then pour into a tiny mug. Sounds simple right? Well, it’s surprisingly difficult to master. Espressos are the purest coffee experience you can get, and while they’re not for everyone, it can be a truly singular drinking experience when you find a good brew.</p>
+<li>Flat White</li><br><p><img src="flat white.jpg" alt="" width="200px" height="200px" align="center"><br>
+The two most Kiwi coffees available are the long black and the flat white – as both originated in New Zealand and Australia. For a flat white, the steamed milk from the bottom of the jug (which is usually not so frothy, but rather creamy) is poured over a shot of espresso. It is now popular among mums and dads at school fetes who are desperately trying to stay awake.</p>
+<li>Long Black</li><br><p><img src="long black.jpg" alt="" width="200px" height="200px" align="center"><br>
+Hot water is poured into a cup, and then two shots of espresso are poured into the water. If you do the inverse of this, it will result in an Americano. Long blacks can be quite strong, and have more crema (a creamy foam that tops espresso shots) than an Americano.</p>
+<li>Macchiato</li><br><p><img src="Macchiato.jpg" alt="" width="200px" height="200px" align="center"><br>
+A macchiato is a shot of espresso that is then topped off with foamed milk dashed directly into the cup.  Although it may sound similar to a cappuccino, it’s usually stronger as there’s no steamed milk added and it’s also smaller, usually served in an espresso-sized cup.</p>
+<li>Irish Coffee</li><br><p><img src="Irish Coffee.jpg" alt="" width="200px" height="200px" align="center"><br>
+Too many of these and you might have to ‘just crash here, bro’, because this type of coffee is made with Irish whiskey, sugar, and a thick layer of cream on the top – and isn’t readily available in New Zealand cafes due to its alcohol content. They’re more often found in restaurants. Be warned, trying to make this with scotch and instant coffee doesn’t work … trust us.</p>
+<li>Affogato</li><br><p><img src="Affogato.jpg" alt="" width="200px" height="200px" align="center"><br>
+Affogatos aren’t a coffee at all, really, as they’re a shot of espresso poured over a dessert (usually ice cream). That doesn’t make them any less delicious, though.</p>
+<li>Dalgona</li><br><p><img src="Dalgona.jpg" alt="" width="200px" height="200px" align="center"><br>
+This new star of the coffee world became an internet sensation during the COVID-19 lockdown, when people stuck for a caffeine fix started playing around with different types of coffee recipes at home. It’s made by whipping up instant coffee, sugar and hot water into a creamy froth and adding it to either hot or cold milk. It takes its name from the Korean word for honeycomb candy, which it resembles.</p>
+<li>Filter Coffee</li><br><p><img src="filter coffee.jpg" alt="" width="200px" height="200px" align="center"><br>
+Once the long black sheep of the coffee family, recently filter coffee has made a comeback, and has become a trendy tipple, especially if it’s cold brewed. Ground coffee beans are left to steep in either hot or cold water, then filtered out, leaving the liquid behind. The result is less harsh and bitter than espresso, but less watery than an Americano, and can be drunk black or with milk.</p>
+</ol>
+</h3>
+</body>
+</html>
